@@ -13,3 +13,4 @@ applicacion del Tf
 solo para este ejemplo se cargo en el repositorio pero idealmente no debe estar 
 
 por practicidad y replicabilidad se definio el nombre 
+![Texto alternativo](https://github.com/jeep2198/vpc-aws/blob/main/vpc.drawio.png)
